@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 body {
+    overflow: auto;
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: #cccccc;
     margin: 0;
     padding: 0;
 }
@@ -79,9 +80,14 @@ a {
 .catalogo-container {
     display: flex;
     max-width: 1200px;
-    margin: 20px auto;
+    margin: auto;
+    margin-bottom: 25px;
     gap: 20px;
     min-height: 60vh;
+    background-color: white ;
+    padding: 25px;
+    border: none;
+    border-radius: 25px;
 }
 
 /* Sidebar */
@@ -145,6 +151,7 @@ a {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 25px;
+    
 }
 .producto {
     
@@ -214,12 +221,17 @@ a {
 /*---Resp---*/
 
 .menu-btn{
-    color: #000000;
+    color: #1160d8;
     font-size: 20px;
     display: none;
     cursor: pointer;
 }
 @media screen and (max-width: 1024px){
+    
+    .body-sidebar-active{
+        overflow: hidden;
+    }
+
     .menu-btn{
         display:flex;
     }
@@ -229,14 +241,14 @@ a {
         left: 0;
         width: 200px;
         height: 100vh;
-        background-color: rgba(85, 85, 85, 0.849);
+        background-color: rgb(255, 255, 255);
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         transition: all 0.5s ease;
         transform: translatex(-100%);
-        color: #fff;
+        color: #1b88e0;
     }
     .sidebar ul li{
         margin: 15px 0;
@@ -247,7 +259,7 @@ a {
        
     }
     .sidebar ul li button{
-        color: #fff;
+        color: #000000;
     }
 
     .productos-header{
