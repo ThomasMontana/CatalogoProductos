@@ -23,7 +23,7 @@ function cargarProd(){
 
     //contenedorProductos.innerHTML="";
     // mostrar desde indiceActual hasta indiceActual + cantidadPorPagina
-    
+    btnCargarMas.style.display = "block";
     const productosAMostrar = productos.slice(indiceActual, indiceActual + cantidadPorPagina);
 
     productosAMostrar.forEach(producto =>{
@@ -67,6 +67,7 @@ function cargarProdCat(productosElegidos){
             <p class="nombre">${producto.titulo}</p>
         `;
         contenedorProductos.append(div);
+        btnCargarMas.style.display = "none";
     })
 
 }
@@ -106,5 +107,7 @@ const menu = document.querySelector('.sidebar');
     })
 
     menu_btn.addEventListener('click',() => {
-        menu.classList.toggle('active')
+        document.body.classList.toggle("body-sidebar-active");
+        menu.classList.toggle('active');
+        
     })
