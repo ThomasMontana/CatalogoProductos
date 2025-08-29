@@ -1,0 +1,1442 @@
+[
+    {
+        "id": "ACO040",
+        "titulo": "ACOL.REVERSIBLE",
+        "imagen": "./fotos mutual/fotosProd/1.png",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "CUBRE08",
+        "titulo": "CUBRECAMA+FUNDA",
+        "imagen": "./fotos mutual/fotosProd/2.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "EDRE00",
+        "titulo": "EDREDON REVERSIBLE ",
+        "imagen": "./fotos mutual/fotosProd/3.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "FRA008",
+        "titulo": "FRAZADA REVERSIBLE ",
+        "imagen": "./fotos mutual/fotosProd/4.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "SET028",
+        "titulo": "JGO.DE DELANTAL+AGARRADERA ",
+        "imagen": "./fotos mutual/fotosProd/5.png",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "TOAL10",
+        "titulo": "JGO.DE TOALLA X 2 UNID C.BLANCA",
+        "imagen": "./fotos mutual/fotosProd/6.png",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "SAB025",
+        "titulo": "SABANAS 1PZA ALMOHAR 180 HILOS",
+        "imagen": "./fotos mutual/fotosProd/7.png",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "AFE058",
+        "titulo": "AFEITADORA RECARGABLE",
+        "imagen": "./fotos mutual/fotosProd/8.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "BAL013",
+        "titulo": "BALANZA DIGITAL",
+        "imagen": "./fotos mutual/fotosProd/9.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "AFE062",
+        "titulo": "CORTAPELO GA-MA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "DEP013",
+        "titulo": "DEPILADORA BRAUN",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "NEB17",
+        "titulo": "NEBULIZADOR PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "SEC122",
+        "titulo": "PLANCHA DE PELO PHILIPS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "TENS11",
+        "titulo": "TENSIOMETRO BRAUN",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "TER02",
+        "titulo": "TERMOMETRO BRAUN",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cuidado-personal"
+        }
+    },
+    {
+        "id": "ALM028",
+        "titulo": "ALMOHADA SOFTLY",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "ASP048",
+        "titulo": "ASPIRADORA ATMA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "HIDRO06",
+        "titulo": "HIDROLAVADORA PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "AUT098",
+        "titulo": "AUTOESTERO. PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "PAR095",
+        "titulo": "PARLANTE PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "AZU01",
+        "titulo": "AZUCARERA CRISTAL",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "BANDE01",
+        "titulo": "BANDEJA DE DESAYUNO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "ESCU08",
+        "titulo": "ESCURRIDOR DE PLATOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "JARR01",
+        "titulo": "JARRA DE VIDRIO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "SET026",
+        "titulo": "JGO.DE CUCHILLOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "VASO01",
+        "titulo": "PACK 6 VASOS CONICOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "SET060",
+        "titulo": "SET DE 6 TAZAS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazarr"
+        }
+    },
+    {
+        "id": "SET043",
+        "titulo": "SET DE OLLAS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "TERMO01",
+        "titulo": "TERMO ELECTRICO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "Bazar"
+        }
+    },
+    {
+        "id": "CALO32",
+        "titulo": "CALEFACTOR",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "CALO30",
+        "titulo": "CALOVENTOR CERAMICO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "CALO31",
+        "titulo": "CONVEC.DE PARED",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "CALO44",
+        "titulo": "ESTUFA CALEFACTOR",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "CALO28",
+        "titulo": "ESTUFA HALOGENA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "CALO43",
+        "titulo": "RADIADOR DE MICA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "CALO40",
+        "titulo": "TURBO CONVECTOR",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "AND010",
+        "titulo": "ANDADOR INFANTI",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "BEB026",
+        "titulo": "BANERA BEBITOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "B022",
+        "titulo": "BOLSO PAÐALERO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "BEB014",
+        "titulo": "BUTACA BEBITOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "COCH08",
+        "titulo": "COCHECITO BEBITOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "CUN021",
+        "titulo": "CUNA BEBITOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "MANTA01",
+        "titulo": "MANTA DE PELUCHE",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "BEB027",
+        "titulo": "SILLA DE COMER BEBITOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bebe"
+        }
+    },
+    {
+        "id": "COC091",
+        "titulo": "COCINA PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "COC087",
+        "titulo": "COCINA MAGICA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "COC080",
+        "titulo": "COCINA TIVOLVI INDUSTRIAL",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "COC060",
+        "titulo": "COCINA VOLCAN ACERO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "COC025",
+        "titulo": "COCINA VOLCAN BLANCA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "HOR59",
+        "titulo": "HORNO DE PAN",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "HOR58",
+        "titulo": "HORNO ELECT ATMA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "HOR55",
+        "titulo": "HORNO ELECT PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "MICR107",
+        "titulo": "MICROONDAS ATMA BLACK",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "MICR64",
+        "titulo": "MICROONDAS SAMSUNG",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "COL079",
+        "titulo": "COLCHON 1PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "COL073",
+        "titulo": "COLCHON 2PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "SOMI41",
+        "titulo": "SOMIER 1PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "SOMI38",
+        "titulo": "SOMIER 2PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "SOMI44",
+        "titulo": "SOMIER KING",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "SOMI49",
+        "titulo": "SOMIER QUEEN",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "WEBCAM",
+        "titulo": "WEBCAM01",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "COMP47",
+        "titulo": "CPU+TECLADO+MOUSE+SPEAKER",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "DISC01",
+        "titulo": "DISCO RIGIDO EXTERNO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "ESTA00",
+        "titulo": "ESTABILIZADOR DE TENSION 500W/600W",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "IMP024",
+        "titulo": "IMPRESORA HP",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "LUZ00",
+        "titulo": "LUZ MULTICOLOR SUMERGIBLE",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "MALE01",
+        "titulo": "MALETIN PARA NOTEBOOK",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "COMP49",
+        "titulo": "MINI PC DELL",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "MON033",
+        "titulo": "MONITOR NOBLEX 25\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "MON034",
+        "titulo": "MONITOR PHILIPS 24\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "MOUSE01",
+        "titulo": "MOUSE OPTICO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "NOTE71",
+        "titulo": "NOTEBOOK HP OMNI",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "PEN04",
+        "titulo": "PEN-DRIVE 32/64 GB",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TABL62",
+        "titulo": "TABLET PHILCO+FUNDA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TABL61",
+        "titulo": "TABLET SAMSUNG A8",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "BOR021",
+        "titulo": "BORDEADORA \"MOCAR\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    },
+    {
+        "id": "BOR022",
+        "titulo": "BORDEADORA LILIANA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    },
+    {
+        "id": "MAQ027",
+        "titulo": "CORT.CESPED \"MOCAR\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    },
+    {
+        "id": "MAQ056",
+        "titulo": "CORT.CESPED LILIANA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    },
+    {
+        "id": "BOR015",
+        "titulo": "DESMALEZADORA NAFTERA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    },
+    {
+        "id": "CAM037",
+        "titulo": "CAMA BOX 1PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "CAM036",
+        "titulo": "CAMA BOX 2PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "CAM040",
+        "titulo": "CAMA CUCHETA MILENIAL",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "CAM039",
+        "titulo": "CAMA CUCHETA TRIPLE",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "CAM041",
+        "titulo": "CAMA SERIE 5 1PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "JGO080",
+        "titulo": "JGO.DE DORMITORIO 2PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "JGO067",
+        "titulo": "JGO.DE DORMITORIO SILCAR 1PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "ME00102",
+        "titulo": "MESA DE LUZ DAKAR",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "JGO087",
+        "titulo": "RESPALDO SOMIER 2PZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "JGO085",
+        "titulo": "RESPALDO SOMIER KING",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "FRE045",
+        "titulo": "FREEZER POZO PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "HEL174",
+        "titulo": "HELADERA PHILCO-ACE",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "HEL123",
+        "titulo": "HEL.SIAM-ACE",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "HEL163",
+        "titulo": "HEL.VOSTOCK-BLA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "cocinas"
+        }
+    },
+    {
+        "id": "JGOL27",
+        "titulo": "JGO.LIVING 2 CUERPOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "JGOL28",
+        "titulo": "JGO.LIVING 3 CUERPOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "ME0011",
+        "titulo": "MESA RATONA VIDRIO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "JUG266",
+        "titulo": "ARCO DE FUTBOL",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG416",
+        "titulo": "AUTO C.REMOTO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG297",
+        "titulo": "AVION A FRICCION",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG560",
+        "titulo": "BEBOTE",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG287",
+        "titulo": "CAMINADOR",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG387",
+        "titulo": "CAMION CON ACOPLADO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG606",
+        "titulo": "CAMION GRUA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG591",
+        "titulo": "CAMION TRANSPORTADOR",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG113",
+        "titulo": "CAMIONETA \"XTREME\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG556",
+        "titulo": "CAMIONETA DE POLICIA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG443",
+        "titulo": "CASA MUSICAL",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG256",
+        "titulo": "CASTILLO FROZEN/PRINCESA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG194",
+        "titulo": "INFLABLE \"GRANDE\" BESTWAY",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG448",
+        "titulo": "MONOPATIN SCOOTER",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "JUG270",
+        "titulo": "MUNECA BABY",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "juguete"
+        }
+    },
+    {
+        "id": "ESTA02",
+        "titulo": "ESTACION DE PLANCHADO PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "LAV095",
+        "titulo": "LAVAVAJILLA PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "PLAN52",
+        "titulo": "PLANCHA ATMA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "SECR25",
+        "titulo": "SEC.COLUMBIA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "TAB00",
+        "titulo": "TABLA DE PLANCHAR",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "TAB09",
+        "titulo": "TENDER PLEGABLE-ALUMINIO-",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "MAQ064",
+        "titulo": "MAQUINAS DE COSER",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "ME0096",
+        "titulo": "MESA DE MADERA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "KIT10",
+        "titulo": "KIT MESA + SILLAS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "SILL50",
+        "titulo": "SILLA DE ESCRITORIO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "POT026",
+        "titulo": "BAFLES POT-KIOTO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "MIN174",
+        "titulo": "MINICOMP.NOBLEX",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "POT045",
+        "titulo": "TORRE DE SONIDO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "BAT054",
+        "titulo": "BATIDORAS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "CAF062",
+        "titulo": "CAFETERAS ATMA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "CAF051",
+        "titulo": "CAFETERAS LILIANA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "CAF053",
+        "titulo": "CAFETERAS OSTER",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "CAF054",
+        "titulo": "CAFETERA PEABODY",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "CAF061",
+        "titulo": "CAFETERA PHILIPS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "EXP019",
+        "titulo": "EXPRIMIDOR DE JUGO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "FREI17",
+        "titulo": "FREIDORA ELEC.",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "LIC049",
+        "titulo": "LICUADORAS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "MINI01",
+        "titulo": "MINIPIMER",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "PAV019",
+        "titulo": "PAVA ELECT.",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "POCH02",
+        "titulo": "POCHOCLERA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "SAND04",
+        "titulo": "SANDWICHERA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "TOST31",
+        "titulo": "TOSTADORA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "CUBRE06",
+        "titulo": "CUBREPILETAS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    },
+    {
+        "id": "JUG232",
+        "titulo": "PILETAS INFLABLES",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    },
+    {
+        "id": "PLA017",
+        "titulo": "PLACARES CON ALZADA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "PLA048",
+        "titulo": "PLACAR P.CORREDIZA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "RACK050",
+        "titulo": "RACK PARA TV",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "hogar"
+        }
+    },
+    {
+        "id": "ROD048",
+        "titulo": "BICI.ROD.12\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD080",
+        "titulo": "BICI.ROD.14\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD112",
+        "titulo": "BICI.ROD.16\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD129",
+        "titulo": "BICI.ROD.20\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD141",
+        "titulo": "BICI.ROD.24\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD104",
+        "titulo": "BICI.ROD.26\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD139",
+        "titulo": "BICI.ROD.29\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD126",
+        "titulo": "SCOOTER ELECTRICO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "ROD135",
+        "titulo": "TRICICLOS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "TELE249",
+        "titulo": "LED 24\" PHILIPS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE232",
+        "titulo": "LED 32\" NOBLEX",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE229",
+        "titulo": "LED 32\" PHILIPS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE210",
+        "titulo": "LED 40\" SAMSUNG",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE239",
+        "titulo": "LED 43\" NOBLEX",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE259",
+        "titulo": "LED 55\" NOBLEX",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE242",
+        "titulo": "LED 65\" PHILIPS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE245",
+        "titulo": "LED 70\" PHILIPS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE253",
+        "titulo": "LED 75\" PHILIPS",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "TELE258",
+        "titulo": "LED 86\" NOBLEX",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "CAL104",
+        "titulo": "CALEFONES",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "TERM75",
+        "titulo": "TERMOTANQUES",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "electro"
+        }
+    },
+    {
+        "id": "SOPORT2",
+        "titulo": "SOPORTE LED",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "GIM013",
+        "titulo": "BICICLETA FIJA",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "bici"
+        }
+    },
+    {
+        "id": "VENT54",
+        "titulo": "VENTILADOR TECHO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "VENT49",
+        "titulo": "VENT/PIE 18\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "VENT34",
+        "titulo": "VENT/PIE 20\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "VENT56",
+        "titulo": "VENT/PIE 22\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id":  "calor"
+        }
+    },
+    {
+        "id": "VENT57",
+        "titulo": "VENT/PIE 26\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "calor"
+        }
+    },
+    {
+        "id": "VENT53",
+        "titulo": "VENT/PIE 30\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id":  "calor"
+        }
+    },
+    {
+        "id": "VENT51",
+        "titulo": "VENT/PIE 32\"",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id":  "calor"
+        }
+    },
+    {
+        "id": "AIR087",
+        "titulo": "AIRES ACOND.PHILCO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id":  "calor"
+        }
+    },
+    {
+        "id": "AIR087",
+        "titulo": "AIRES ACOND.SANYO",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id":  "calor"
+        }
+    },
+    {
+        "id": "AIR087",
+        "titulo": "AIRES ACOND.SAMSUNG",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id":  "calor"
+        }
+    },
+    {
+        "id": "VJGO34",
+        "titulo": "JUEGOS PLAY 5/4",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "JOYS04",
+        "titulo": "JOYSTICK PS5/4",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "tecno"
+        }
+    },
+    {
+        "id": "KIT012",
+        "titulo": "JGO.JARDIN",
+        "imagen": "./fotos mutual/fotosProd/default.jpg",
+        "categoria": {
+            "id": "jardin"
+        }
+    }
+]

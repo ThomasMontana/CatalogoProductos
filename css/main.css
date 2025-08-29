@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --clr-main: #4b33a8;
+    --clr-main-light: #785ce9;
+    --clr-white: #ececec;
+    --clr-gray: #e2e2e2;
+    --clr-red: #961818;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* Breadcrumb */
+.breadcrumb-nav {
+    font-size: 14px;
+    padding: 15px 15px;
+    
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    
+    
+}
+.breadcrumb-nav a {
+    text-decoration: none;
+    color: #000;
+    
+}
+.breadcrumb-nav span {
+    color: gray;
+}
+
+.breadcrumb-nav h2{
+    background-color: rgb(20, 92, 199);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+/* Layout principal */
+.catalogo-container {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    gap: 20px;
+    min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 220px;
+    background: #fff;
+    border-right: 1px solid #ddd;
+    padding: 15px;
+}
+.sidebar h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+.sidebar ul li {
+    margin: 8px 0;
+}
+.sidebar ul li button {
+    text-decoration: none;
+    color: #000000;
+    background: none;
+    border: none;
+    transition: 0.3s;
+    
+}
+.sidebar ul li button:hover {
+    background-color: rgb(20, 92, 199);
+    color: white;
+    padding: 8px 8px;
+    cursor: pointer;
+    border-radius: 25px;
+    transition: 0.3s;
+    
+}
+
+/* productos seccion */
+.productos {
+    flex: 1;
+    font-family: 'Heebo', sans-serif;
+}
+.productos-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    font-family: 'Heebo', sans-serif;
+    
+}
+.productos-header h2 {
+    font-size: 20px;
+}
+.productos-header select {
+    padding: 5px;
+}
+
+/* Grid de productos */
+.contenedor-productos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 25px;
+}
+.producto {
+    
+    padding-top: 10px;
+    text-align: center;
+    transition: 0.3s;
+    
+}
+.producto:hover {
+    background-color: #ffffff;
+    /*box-shadow: 0 4px 8px rgb(71, 71, 71);*/
+    color: #165fe6;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.producto img {
+    width: 100%;
+    height: 180px;
+    object-fit: contain;
+}
+.nombre {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+
+
+
+
+
+/* Footer */
+.footer {
+    background-color: rgb(20, 92, 199);
+    text-align: center;
+    color: white;
+    padding: 14px;
+    margin-top: 30px;
+    position: absolute;
+    width: 100%;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+/*---Resp---*/
+
+.menu-btn{
+    color: #000000;
+    font-size: 20px;
+    display: none;
+    cursor: pointer;
+}
+@media screen and (max-width: 1024px){
+    .menu-btn{
+        display:flex;
+    }
+    .sidebar{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 200px;
+        height: 100vh;
+        background-color: rgba(85, 85, 85, 0.849);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.5s ease;
+        transform: translatex(-100%);
+        color: #fff;
+    }
+    .sidebar ul li{
+        margin: 15px 0;
+     
+    }
+    .sidebar.active{
+        transform: translatex(0);
+       
+    }
+    .sidebar ul li button{
+        color: #fff;
+    }
+
+    .productos-header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+    .breadcrumb-nav {
+        justify-content: end;
+    }
+    .breadcrumb-nav h2{
+        display: none;
+    }
+    .producto img{
+        height: 190px;
+    }
+    
+    
+}
+
+
